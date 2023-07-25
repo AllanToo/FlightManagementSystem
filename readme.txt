@@ -33,6 +33,10 @@ Run program: Command prompt command: java -jar Assignment2.jar
 
 
 ![image](https://github.com/AllanToo/FlightManagementSystem/assets/113399719/68d3ac2a-0b59-47cb-922e-50097d70581b)
+![image](https://github.com/AllanToo/FlightManagementSystem/assets/113399719/f8f6fd73-89f0-4cc0-a539-1e147c712f2f)
+
+Project explaination in this link ( Please refresh the page if it is not work for the first time) 
+https://mysait.sharepoint.com/sites/CPRG-251CGroup/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FCPRG%2D251CGroup%2FShared%20Documents%2FGeneral%2FRecordings%2FNew%20channel%20meeting%2D20220328%5F192958%2DMeeting%20Recording%2Emp4&parent=%2Fsites%2FCPRG%2D251CGroup%2FShared%20Documents%2FGeneral%2FRecordings
 
 
 
