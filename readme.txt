@@ -32,7 +32,7 @@ Steps:
 Run program: Command prompt command: java -jar Assignment2.jar
 
 
-
+![image](https://github.com/AllanToo/FlightManagementSystem/assets/113399719/68d3ac2a-0b59-47cb-922e-50097d70581b)
 
 
 
